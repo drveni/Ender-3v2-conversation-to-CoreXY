@@ -1,1 +1,19 @@
-.
+	dijelovi		komadi
+lijevi zadnji tockici	M5x35	Hexagon Hex Socket Head Cap Allen Bolt Screw	2
+	M5	Hex Hexagon Nut	2
+	M5	Stainless Steel Flat Washer	5
+Srednji desni klizac	M5x40	Hexagon Hex Socket Head Cap Allen Bolt Screw	2
+	M5	Hex Hexagon Nut	2
+	M5	Stainless Steel Flat Washer	4
+	LM10UU	Linear Bearing	1
+	M3x19	Srew philips	2
+	M3	Nut	2
+	GT2 Pulley	Bearing 20T no teeth, ID5 mm (8,5mm, or 9mm but different fastener flat)	2
+Podizac lijevi	LM8UU	Linear Bearing	2
+	M4x20	Hex Hexagon Socket Ultra Thin Flat Wafer	2
+	M4 	Hex Hexagon Nut	2
+	M3x7	Screw Philips	2
+	M3	Stainless Steel Flat Washer	2
+z podizac motor	m3*6		4
+bed 	m4x25	Hex Hexagon Socket Ultra Thin Flat Wafer	4
+	M4 	Hex Hexagon Nut	4
